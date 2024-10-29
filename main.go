@@ -1,4 +1,4 @@
-package gotway
+package main
 
 import "fmt"
 
